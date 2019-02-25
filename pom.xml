@@ -5,6 +5,7 @@
     <groupId>com.hemi.optimus</groupId>
     <artifactId>jhipsterdemo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>jar</packaging>
     <name>Jhipsterdemo</name>
 
     <repositories>

@@ -9,6 +9,6 @@ public class DemoController {
 
 	 @RequestMapping("/")
 	    public String index() {
-	        return "JHipster Demo!";
+	        return "JHipster Demo!!";
 	    }
 }
